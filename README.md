@@ -1,1 +1,1 @@
-# Katalon_Amazon
+# AMAZON_Automation-Testing-using-Katalon
